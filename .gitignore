@@ -87,3 +87,58 @@ package-lock.json
 .eslintcache
 *v8.log
 /lib/
+
+# =========================
+# Java y Maven
+# =========================
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# La carpeta donde Maven guarda todo lo que compila (¡súper importante ignorarla!)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# VS Code (Visual Studio Code)
+# =========================
+.vscode/
+*.code-workspace
+.history/
+
+# Caché del servidor de Java de VS Code
+.java-workspace/
+.project
+.classpath
+.factorypath
+.settings/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
