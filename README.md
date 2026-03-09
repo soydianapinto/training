@@ -1,10 +1,12 @@
 # training
 
 - discord_sessions
-    - katas with people
+  - katas with people
 
 - src & tests
-    - Bank excercise
+  - Bank excercise
 
 - ts_katas
-    - Algorithms and katas
+  - Algorithms and katas
+
+- java
