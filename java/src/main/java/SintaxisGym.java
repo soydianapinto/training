@@ -58,9 +58,6 @@ public class SintaxisGym {
     }
     
     public static HashMap<Integer, Integer> countFrequencies(int[] numbers) {
-        // {1, 2, 3, 2} = i
-        // 
-
         // output
         HashMap<Integer, Integer> hashMap = new HashMap<>();
 
